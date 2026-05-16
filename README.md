@@ -133,9 +133,9 @@ Perbandingan performa ketiga skema (nilai aktual bergantung pada dataset saat ru
 
 | Skema | Algoritma | Split | Train (%) | Test (%) | Status |
 |---|---|---|---|---|---|
-| Skema 1 | TF-IDF + LinearSVC | 80/20 | — | — | Target ≥ 85% |
-| Skema 2 | Bi-LSTM | 80/20 | — | — | Target ≥ 85% |
-| Skema 3 | Word2Vec + RF + SMOTE | 70/30 | — | — | Target ≥ 85% |
+| Skema 1 | TF-IDF + LinearSVC | 80/20 | — | 86.74% | Target ≥ 85% |
+| Skema 2 | Bi-LSTM | 80/20 | — | 86.05%  | Target ≥ 85% |
+| Skema 3 | Word2Vec + RF + SMOTE | 70/30 | — | 84.67% | Target ≥ 85% |
 
 > Jalankan notebook untuk melihat angka akurasi aktual pada dataset Anda.
 
