@@ -63,7 +63,7 @@ Data dikumpulkan menggunakan library `google-play-scraper` dengan konfigurasi:
 - **Aplikasi**: Spotify (`com.spotify.music`)
 - **Bahasa / Negara**: `id` / `id`
 - **Sorting**: `MOST_RELEVANT`
-- **Target pengambilan**: hingga 100.000 ulasan
+- **Target pengambilan**: hingga 17.000 ulasan
 
 Kolom utama yang digunakan: `score` (rating bintang) dan `content` (teks ulasan).
 
